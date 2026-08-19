@@ -1,0 +1,73 @@
+\begin{thebibliography}{}
+
+\bibitem[Bellemare et~al., 2017]{bellemare2017}
+Bellemare, M.~G., Dabney, W., and Munos, R. (2017).
+\newblock A distributional perspective on reinforcement learning.
+\newblock In {\em Proceedings of the 34th International Conference on Machine Learning (ICML)}, volume~70 of {\em PMLR}, pages 449--458.
+
+\bibitem[Bernstein et~al., 2018]{bernstein2018}
+Bernstein, J., Wang, Y.-X., Azizzadenesheli, K., and Anandkumar, A. (2018).
+\newblock signsgd: Compressed optimisation for non-convex problems.
+\newblock In {\em Proceedings of the 35th International Conference on Machine Learning (ICML)}, volume~80 of {\em PMLR}, pages 560--569.
+
+\bibitem[Costa et~al., 2016]{costa2016}
+Costa, V.~D., Dal~Monte, O., Lucas, D.~R., Murray, E.~A., and Averbeck, B.~B. (2016).
+\newblock Amygdala and ventral striatum make distinct contributions to reinforcement learning.
+\newblock {\em Neuron}, 92(2):505--517.
+
+\bibitem[Dabney et~al., 2020]{dabney2020}
+Dabney, W., Kurth-Nelson, Z., Uchida, N., Starkweather, C.~K., Hassabis, D., Munos, R., and Botvinick, M. (2020).
+\newblock A distributional code for value in dopamine-based reinforcement learning.
+\newblock {\em Nature}, 577:671--675.
+
+\bibitem[Findling et~al., 2019]{findling2019}
+Findling, C., Skvortsova, V., Dromnelle, R., Palminteri, S., and Wyart, V. (2019).
+\newblock Computational noise in reward-guided learning drives behavioral variability in volatile environments.
+\newblock {\em Nature Neuroscience}, 22:2066--2077.
+
+\bibitem[Jaskir and Frank, 2023]{jaskirfrank2023}
+Jaskir, A. and Frank, M.~J. (2023).
+\newblock On the normative advantages of dopamine and striatal opponency for learning and choice.
+\newblock {\em eLife}, 12:e85107.
+
+\bibitem[Lefebvre et~al., 2017]{lefebvre2017}
+Lefebvre, G., Lebreton, M., Meyniel, F., Bourgeois-Gironde, S., and Palminteri, S. (2017).
+\newblock Behavioural and neural characterization of optimistic reinforcement learning.
+\newblock {\em Nature Human Behaviour}, 1:0067.
+
+\bibitem[Lowet et~al., 2025]{lowet2025}
+Lowet, A.~S., Zheng, Q., Meng, M., Matias, S., Drugowitsch, J., and Uchida, N. (2025).
+\newblock An opponent striatal circuit for distributional reinforcement learning.
+\newblock {\em Nature}, 639:717--726.
+
+\bibitem[Newey and Powell, 1987]{newey1987}
+Newey, W.~K. and Powell, J.~L. (1987).
+\newblock Asymmetric least squares estimation and testing.
+\newblock {\em Econometrica}, 55(4):819--847.
+
+\bibitem[Rowland et~al., 2019]{rowland2019}
+Rowland, M., Dadashi, R., Kumar, S., Munos, R., Bellemare, M.~G., and Dabney, W. (2019).
+\newblock Statistics and samples in distributional reinforcement learning.
+\newblock In {\em Proceedings of the 36th International Conference on Machine Learning (ICML)}, volume~97 of {\em PMLR}.
+
+\bibitem[Shen et~al., 2014]{shen2014}
+Shen, Y., Tobia, M.~J., Sommer, T., and Obermayer, K. (2014).
+\newblock Risk-sensitive reinforcement learning.
+\newblock {\em Neural Computation}, 26(7):1298--1328.
+
+\bibitem[Tamar et~al., 2015]{tamar2015}
+Tamar, A., Glassner, Y., and Mannor, S. (2015).
+\newblock Optimizing the cvar via sampling.
+\newblock {\em Proceedings of the AAAI Conference on Artificial Intelligence}, 29(1):2993--2999.
+
+\bibitem[Waltrup et~al., 2015]{waltrup2015}
+Waltrup, L.~S., Sobotka, F., Kneib, T., and Kauermann, G. (2015).
+\newblock Expectile and quantile regression---david and goliath?
+\newblock {\em Statistical Modelling}, 15(5):433--456.
+
+\bibitem[Zalocusky et~al., 2016]{zalocusky2016}
+Zalocusky, K.~A., Ramakrishnan, C., Lerner, T.~N., Davidson, T.~J., Knutson, B., and Deisseroth, K. (2016).
+\newblock Nucleus accumbens d2r cells signal prior outcomes and control risky decision-making.
+\newblock {\em Nature}, 531:642--646.
+
+\end{thebibliography}

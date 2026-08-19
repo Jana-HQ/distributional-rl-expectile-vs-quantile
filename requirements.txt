@@ -1,0 +1,12 @@
+# Requirements for 01_rw_baseline.ipynb, 02_noise_robustness.ipynb,
+# 03_task_generalization.ipynb — none of these touch the raw .sav files,
+# so no joblib/suite2p/brainrender/etc. is needed here.
+#
+# 00_prepare_data.ipynb installs its own (much heavier) dependencies
+# inline, since it needs to unpickle the paper's custom data classes.
+
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
